@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+# 生成物 / 本地数据
+sec_tickers_cache.json
+*.xlsx
+build/
+dist/
+.idea/
+.tools/
